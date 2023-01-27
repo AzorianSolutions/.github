@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzorianMatt AKA TesNik from [@AzorianSolutions](https://github.com/AzorianSolutions)
+- 👋 Hi, I’m @AzorianMatt from [@AzorianSolutions](https://github.com/AzorianSolutions)
 - 👀 I’m interested in network technologies and services from the perpective of automation and integration.
 - 🌱 I’m currently learning Python and Kubernetes.
 - 💞️ I’m looking to collaborate on projects that empower network operators.
